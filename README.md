@@ -26,11 +26,11 @@ ref : [mmdetection installation](https://mmdetection.readthedocs.io/en/latest/ge
 
 **Step 1: Clone the FFE-YOLO repository:**
 
-To get started, first clone the RSDet repository and navigate to the project directory:
+To get started, first clone the FFE-YOLO repository and navigate to the project directory:
 
 ```bash
 git clone https://github.com/CongLi-18/FFE-YOLO.git
-cd RSDet
+cd FFE-YOLO
 ```
 
 **Step 2: Environment Setup:**
